@@ -68,8 +68,7 @@ void quickSort(int *array, int low, int high, size_t size)
 }
 
 /**
- *quick_sort - sorts sorts an array of integers in ascending order
- using the quick sort algorithm
+ *quick_sort - sorts an array of integers in ascending order
  *@array: array of integers
  *@size: size of array
  *

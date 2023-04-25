@@ -6,7 +6,7 @@ void heap_sort(int *array, size_t size);
 
 /**
  * swap_ints - Swap two integers in an array.
- * @z: The first integer to swap.
+ * @x: The first integer to swap.
  * @y: The second integer to swap.
  */
 
